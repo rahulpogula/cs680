@@ -1,0 +1,12 @@
+# Setting up Git
+http://help.github.com/
+
+# The Python interpreter
+http://python.org/download/releases/2.6.6/
+
+# This is setuptools. It makes installing Python modules super easy (and it's the easiest way to get Elixir)
+http://pypi.python.org/packages/2.6/s/setuptools/setuptools-0.6c11.win32-py2.6.exe#md5=1509752c3c2e64b5d0f9589aafe053dc
+
+# These are the modules you'll need
+http://elixir.ematia.de/trac/wiki/Download
+http://www.riverbankcomputing.co.uk/software/pyqt/download
